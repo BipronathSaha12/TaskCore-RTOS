@@ -1,4 +1,4 @@
-# RTOS Simulator
+# TaskCore RTOS
 
 A Real-Time Operating System (RTOS) simulator written in C, demonstrating core RTOS concepts through a fully functional multi-file project.
 
